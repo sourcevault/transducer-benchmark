@@ -15,4 +15,7 @@ Experiment to see which transducer implementation is most performant.
 
 - combinator used `filter -> map -> map`
 
+- `node v9.6.1`
+
 - hardware used - `i7-3667U CPU (2 GHz 2.5 GHz), (x64, 7.86 RAM)`
+
